@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap-icons@1.10.5",
+      "destination": "wwwroot/lib/bootstrap-icons/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "react@18.2.0",
+      "destination": "wwwroot/lib/react/"
+    }
+  ]
+}
